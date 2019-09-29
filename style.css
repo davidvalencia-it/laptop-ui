@@ -1,12 +1,11 @@
 * {
     margin: 0px;
-    padding: 1px;
+    padding: 0px;
     box-sizing: border-box;
 }
 
 body {
     font-family: 'Poppins', sans-serif;
-    align-content: center
 }
 
 button {
@@ -47,7 +46,7 @@ nav {
 
 .nav-link {
     color: #5f5f79;
-    font-size: 14px;
+    font-size: 18px;
     text-decoration: none;
 }
 
