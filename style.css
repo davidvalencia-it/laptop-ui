@@ -37,6 +37,7 @@ header {
 
 nav {
     flex: 2;
+    width: 100%;
 }
 
 .nav-links {
